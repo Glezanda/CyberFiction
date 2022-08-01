@@ -1,0 +1,25 @@
+
+* {
+    color:greenyellow;
+  }
+  body {
+    background-color: black; 
+  }
+  a {
+    color:whitesmoke;
+  }
+  h1 { 
+     font-style: italic;
+     font-size: 80px;
+     text-align: center; 
+     }
+     h2 {
+     font-style: italic;
+     font-size: 50px;
+     }
+     *:hover{
+       color: blue;
+     }
+     a:visited {
+      color: white;
+  }
